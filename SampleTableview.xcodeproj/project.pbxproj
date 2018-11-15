@@ -13,6 +13,7 @@
 		089E9C03219DDF2C00EB0A42 /* SampleTableview.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 089E9C01219DDF2C00EB0A42 /* SampleTableview.xcdatamodeld */; };
 		089E9C05219DDF2D00EB0A42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 089E9C04219DDF2D00EB0A42 /* Assets.xcassets */; };
 		089E9C08219DDF2D00EB0A42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 089E9C06219DDF2D00EB0A42 /* LaunchScreen.storyboard */; };
+		089E9C10219DE14B00EB0A42 /* sampleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 089E9C0F219DE14B00EB0A42 /* sampleCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		089E9C04219DDF2D00EB0A42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		089E9C07219DDF2D00EB0A42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		089E9C09219DDF2D00EB0A42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		089E9C0F219DE14B00EB0A42 /* sampleCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sampleCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				089E9BFA219DDF2C00EB0A42 /* AppDelegate.swift */,
 				089E9BFC219DDF2C00EB0A42 /* ViewController.swift */,
+				089E9C0F219DE14B00EB0A42 /* sampleCell.swift */,
 				089E9BFE219DDF2C00EB0A42 /* Main.storyboard */,
 				089E9C04219DDF2D00EB0A42 /* Assets.xcassets */,
 				089E9C06219DDF2D00EB0A42 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				089E9C03219DDF2C00EB0A42 /* SampleTableview.xcdatamodeld in Sources */,
+				089E9C10219DE14B00EB0A42 /* sampleCell.swift in Sources */,
 				089E9BFD219DDF2C00EB0A42 /* ViewController.swift in Sources */,
 				089E9BFB219DDF2C00EB0A42 /* AppDelegate.swift in Sources */,
 			);

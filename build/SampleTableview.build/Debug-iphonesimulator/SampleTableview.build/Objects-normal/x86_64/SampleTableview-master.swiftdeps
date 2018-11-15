@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "9648441a57db742512b18a09e9c3cc6d"
+build_time: [1542305087, 183590000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/SampleTableview/SampleTableview/sampleCell.swift": [1542302351, 0]
+  "/Users/sriramprasad/Dev/rough/SampleTableview/SampleTableview/ViewController.swift": [1542305086, 0]
+  "/Users/sriramprasad/Dev/rough/SampleTableview/SampleTableview/AppDelegate.swift": [1542301938, 0]
